@@ -1,0 +1,4 @@
+app:
+  nome:
+    principal: myApp
+    secundario: theGenericApp
