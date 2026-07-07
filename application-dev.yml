@@ -1,2 +1,6 @@
 app:
   name: myApp
+
+variable:
+  data:
+    hello-world: 'hello world'
