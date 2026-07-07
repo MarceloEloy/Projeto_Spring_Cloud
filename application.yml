@@ -1,0 +1,5 @@
+app:
+  name: application
+variable:
+  data:
+    hello-world: 'hell0 world'
